@@ -1,0 +1,22 @@
+{
+  "name": "brewing-sweet-victory",
+  "version": "1.0.0",
+  "description": "A repository for the codebrew 2016 hack-a-thon, for the team brewing-sweet-victory",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zadow/brewing-sweet-victory.git"
+  },
+  "author": "zadow",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Zadow/brewing-sweet-victory/issues"
+  },
+  "homepage": "https://github.com/Zadow/brewing-sweet-victory#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
